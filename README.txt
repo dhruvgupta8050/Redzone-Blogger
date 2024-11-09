@@ -1,40 +1,37 @@
-           Welcome To Redzone Blogger
---------------------------------------
-        Website Was maded by Dhruv Gupta
-Contact:- +918851445021
-Gmail:- Dhruvgupta8050@gmail.com
- 
+                                                                                        Welcome To Redzone Blogger
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                     
+
+                                                                                  Website Was maded by Dhruv Gupta
+                                                                                        Contact:- +918851445021
+                                                                                    Gmail:- Dhruvgupta8050@gmail.com
 
 
-               "Don't Touch the code"
-
-Let's Talk about Project:- 
-Table of Contents
+___________________________________________________________________________________________________________________________________________________________________________________
+                                                                                        Table of Contents
 
   1.-ABSTRACT
 
-2.- ACKNOWLEDGEMENT 
+2.- INTRODUCTION
+3.-AIM & OBJECTIVE 
 
-3.- INTRODUCTION
-4.-AIM & OBJECTIVE 
+4.-DEVELOPMENT TOOLS 
 
-5.-DEVELOPMENT TOOLS 
+5.-PROJECT DESCRIPTION
 
-6.-PROJECT DESCRIPTION
+6.-CONCLUSION 
+7.-FUTURE WORK 
 
-7.-CONCLUSION 
-8.-FUTURE WORK 
-
-9.-REFERENCES 
+8.-REFERENCES 
 
 
                                                                                         Chapter 1 
-                                                                                        Abstract :-
+                                                                                        Abstract:
 
 
  Now-a-Days, we all see many blogging websites.Most of the websites are related to tour & travels, personal development, health & fitness, food, etc. website. In Other sites, we see less content on Tech Blogging website like: Technology, AI, Cloud Computing, Networking etc. So, we decided to make Tech Blogging Website. In this project named “RedZone Blogger”, We decided to make user input based site to provide tech blogging like: AI, Cloud Computing, Machine Learning, Networking etc. On this site, We also publish blogs on tourist places and  some food blogs. We also do photography and edit photos on the latest photo editing softwares.  In this site “Redzone blogger”, anybody over the internet can visit or publish the Blogs, and categorized personal blog website. People over the internet can visit the website for reading the blog. The aim to build this website is to provide people blogs on informative topics. If a user wants us to do video editing from us, we will do that too.
                                                                              
-                                                                             Introduction
+                                                                             Introduction:
 
 In this project, We are making a Blogging Website. The name of the project is REDZONE BLOGGER. In this website, there are many blogs on many informative topics. Blog means a website where a person writes regularly about topics that interest them, usually with photographs and links to other websites they find interesting. In this website, any blogger or a group of blogger can share their views on any individual subject. In this project, Dhruv is making a website, Dipendra is making a logo and Mayank has worked in front-end. For making this website, we used HTML, CSS, Javascript ,and PHP for making a complete and responsive  website. The whole website is totally based on coding. We are making a responsive website. For any viewport, it can automatically adjust to the size of display that you want to see. REDZONE BLOGGER is for travel blog and food blogs. In REDZONE BLOGGER, there are technical blogs also. In this website, we also do photo edits with latest photo editing softwares like Adobe Photoshop, Coral Draw etc 
 
@@ -87,114 +84,8 @@ Materials Required:-
 3.	PHP
 4.	XAMPP for (Localhost / Virtual Server)
 
+                                                                                                   Conclusion:
 
-
-                                                                              SNAPSHOTS OF WEBSITE 
-
-
-Home page
-
- 
-
-
-
-Home page is for showing our website name and nav bar for choose any section. At home page, there are five options:  About option, Services option, Team option, Work option and Contact Us option. By clicking on any of these options, you can get information that you want. 
-
-
-
-
-
-
-
-About section
-
-
- 
-
-
-In About Us section, you will be able to know that what type of blogs and information you can get on our website. The main purpose to build About Us section is that people can get to know what we do in a website. We also upload stories of our blog. 
- 
-
-
-SERVICES PROVIDED
-
- 
-
-In this page, you will get to know about the services that is provided by our team. By clicking on the options provided on the page, you will get to know what type of services we provide. By clicking on Logo Design-It will show that we design logos at very cheap prices. You can contact us for making a Logo for you. By clicking on Photography, It will show that we do photography also and edit photos with latest softwares like Adobe Photoshop. By clicking on Web Design, It will show that we can design very creative websites for you. It will be a secure and fully responsive website.    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quote
-
-
- 
-
-
-
-In our website, Everyone can give a quote for understanding website clearly. It can be related to any thing.  Our team will also attach quotes so people can understand our feeling by a quotes.
-
-
-
-
-
-
-
-
-               Meet our team members
-
-
- 
-
-
-This is the page where you can be introduced to our team. There will be three options on Our Team profile buttons that will link you to the three links- YouTube link, Our Instagram page and Our Facebook page. There is also a hover effect on the Team button  for making it more effective and attractive.
-
-
-
-
-
-
-
-
-BLOG SECTION
-
-
- 
-
-
-
-
-Blog section is build for our latest stories shown in the front end and also a subscribe button for subscribe our website and see our followers.
-
-
-
-Contact us
-
-
- 
-
-This is Our Contact us form we just Analyze another contact form and making some changes and making  a new contact form analyzing another form and we making new one.
-
-
-
-                                 Conclusion 
 Before the project we don’t know about the project planning, executing, testing etc. 
  In this project we learned many things in project making like working in a team project planning, executing, testing etc. 
 We also learned some technical aspect including Front-End, Back-End, Database and  
@@ -207,10 +98,9 @@ so we will embed new technology in our website accordingly.
 Future Work  
 1.	PHP Work Will Be Embeded 
 2.	And some enhanced security feature for better privacy protection from online threats. 
- 
- 
+                                                                             
 
-References 
+                                                                             References:
 1) ThapaTechnical.com 
 
 2) Mentors.com
